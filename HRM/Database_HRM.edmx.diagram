@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="793cbe1670fd49a0b524b948885aa360" Name="Diagram1" ZoomLevel="55">
+        <EntityTypeShape EntityType="masterModel.sysdiagram" Width="1.5" PointX="2.75" PointY="7.75" />
+        <EntityTypeShape EntityType="masterModel.tb_BANGCONG" Width="1.5" PointX="8" PointY="6" />
+        <EntityTypeShape EntityType="masterModel.tb_BANGCONG_CHITIET" Width="1.5" PointX="4.75" PointY="9.75" />
+        <EntityTypeShape EntityType="masterModel.tb_BANGLUONG" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="masterModel.tb_BAOHIEM" Width="1.5" PointX="10.75" PointY="6.75" />
+        <EntityTypeShape EntityType="masterModel.tb_BOPHAN" Width="1.5" PointX="0.75" PointY="6" />
+        <EntityTypeShape EntityType="masterModel.tb_CHUCVU" Width="1.5" PointX="0.75" PointY="8.25" />
+        <EntityTypeShape EntityType="masterModel.tb_CHUYENNHANVIEN" Width="1.5" PointX="6.75" PointY="10.75" />
+        <EntityTypeShape EntityType="masterModel.tb_CONGTY" Width="1.5" PointX="8.75" PointY="10.75" />
+        <EntityTypeShape EntityType="masterModel.tb_DANHSACHPHUCAP" Width="1.5" PointX="10.75" PointY="9.75" />
+        <EntityTypeShape EntityType="masterModel.tb_DANTOC" Width="1.5" PointX="12.75" PointY="0.75" />
+        <EntityTypeShape EntityType="masterModel.tb_HOPDONG" Width="1.5" PointX="12.75" PointY="3.75" />
+        <EntityTypeShape EntityType="masterModel.tb_KHENTHUONG_KYLUAT" Width="1.5" PointX="12.75" PointY="9.75" />
+        <EntityTypeShape EntityType="masterModel.tb_KYCONG" Width="1.5" PointX="0.75" PointY="13.75" />
+        <EntityTypeShape EntityType="masterModel.tb_KYCONGCHITIET" Width="1.5" PointX="8.75" PointY="13.75" />
+        <EntityTypeShape EntityType="masterModel.tb_LOAICA" Width="1.5" PointX="5.75" PointY="2" />
+        <EntityTypeShape EntityType="masterModel.tb_LOAICONG" Width="1.5" PointX="5.75" PointY="6.75" />
+        <EntityTypeShape EntityType="masterModel.tb_LUONGCOBAN" Width="1.5" PointX="14.75" PointY="0.75" />
+        <EntityTypeShape EntityType="masterModel.tb_NANGLUONG" Width="1.5" PointX="14.75" PointY="3.75" />
+        <EntityTypeShape EntityType="masterModel.tb_NHANVIEN" Width="1.5" PointX="3" PointY="1.125" />
+        <EntityTypeShape EntityType="masterModel.tb_NHANVIEN_PHUCAP" Width="1.5" PointX="14.75" PointY="8.75" />
+        <EntityTypeShape EntityType="masterModel.tb_PHONGBAN" Width="1.5" PointX="0.75" PointY="2.75" />
+        <EntityTypeShape EntityType="masterModel.tb_PHUCAP" Width="1.5" PointX="10.75" PointY="14.75" />
+        <EntityTypeShape EntityType="masterModel.tb_TANGCA" Width="1.5" PointX="8" PointY="1" />
+        <EntityTypeShape EntityType="masterModel.tb_THOIVIEC" Width="1.5" PointX="14.75" PointY="11.75" />
+        <EntityTypeShape EntityType="masterModel.tb_TONGIAO" Width="1.5" PointX="2.75" PointY="15.75" />
+        <EntityTypeShape EntityType="masterModel.tb_TRINHDO" Width="1.5" PointX="0.75" PointY="10.625" />
+        <EntityTypeShape EntityType="masterModel.tb_UNGLUONG" Width="1.5" PointX="4.75" PointY="15.75" />
+        <AssociationConnector Association="masterModel.FK_tb_BANGCONG_tb_LOAICONG" />
+        <AssociationConnector Association="masterModel.FK_tb_NHANVIEN_tb_BOPHAN" />
+        <AssociationConnector Association="masterModel.FK_tb_NHANVIEN_tb_CHUCVU" />
+        <AssociationConnector Association="masterModel.FK_tb_TANGCA_tb_LOAICA" />
+        <AssociationConnector Association="masterModel.FK_tb_NHANVIEN_tb_PHONGBAN" />
+        <AssociationConnector Association="masterModel.FK_tb_NHANVIEN_tb_TRINHDO" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

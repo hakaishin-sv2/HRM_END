@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b359817471fd42b58e59e602b79fb59b" Name="Diagram1" ZoomLevel="65">
+        <EntityTypeShape EntityType="HRMModel.tb_BANGLUONG" Width="1.5" PointX="5.75" PointY="0.75" />
+        <EntityTypeShape EntityType="HRMModel.tb_DANHSACHPHUCAP" Width="1.5" PointX="5.75" PointY="6.75" />
+        <EntityTypeShape EntityType="HRMModel.tb_HOPDONG" Width="1.5" PointX="7.75" PointY="0.75" />
+        <EntityTypeShape EntityType="HRMModel.tb_KHENTHUONG_KYLUAT" Width="1.5" PointX="0.75" PointY="7.75" />
+        <EntityTypeShape EntityType="HRMModel.tb_PHONGBAN" Width="1.5" PointX="0.75" PointY="2.875" />
+        <EntityTypeShape EntityType="HRMModel.tb_PHUCAP" Width="1.5" PointX="2.75" PointY="7.75" />
+        <EntityTypeShape EntityType="HRMModel.tb_TANGCA" Width="1.5" PointX="7.75" PointY="6.75" />
+        <EntityTypeShape EntityType="HRMModel.tb_USER" Width="1.5" PointX="9.75" PointY="0.75" />
+        <EntityTypeShape EntityType="HRMModel.tb_NHANVIEN" Width="1.5" PointX="3" PointY="1.125" />
+        <AssociationConnector Association="HRMModel.FK_tb_NHANVIEN_tb_PHONGBAN" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

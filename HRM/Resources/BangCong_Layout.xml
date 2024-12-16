@@ -1,0 +1,719 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="#LayoutScaleFactor">@1,Width=1@1,Height=1</property>
+  <property name="Columns" iskey="true" value="42">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="VisibleIndex">0</property>
+      <property name="Fixed">None</property>
+      <property name="Name">ID</property>
+      <property name="Caption">ID</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">IDLC</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">32</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="VisibleIndex">1</property>
+      <property name="Fixed">None</property>
+      <property name="Name">MAKYCONG</property>
+      <property name="Caption">Mã Kỳ Công</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">MAKYCONG</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">90</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="VisibleIndex">3</property>
+      <property name="Fixed">None</property>
+      <property name="Name">MANV</property>
+      <property name="Caption">Mã Nhân Viên</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">MANV</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">82</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="VisibleIndex">4</property>
+      <property name="Fixed">None</property>
+      <property name="Name">HOTEN</property>
+      <property name="Caption">Họ Tên</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">HOTEN</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">86</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="VisibleIndex">2</property>
+      <property name="Fixed">None</property>
+      <property name="Name">TENPB</property>
+      <property name="Caption">Phòng ban</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">TENPB</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">93</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="VisibleIndex">5</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day1</property>
+      <property name="Caption">Day1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day1</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">39</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="VisibleIndex">6</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day2</property>
+      <property name="Caption">Day2</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day2</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">60</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="VisibleIndex">7</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day3</property>
+      <property name="Caption">Day3</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day3</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">76</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="VisibleIndex">8</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day4</property>
+      <property name="Caption">Day4</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day4</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="VisibleIndex">9</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day5</property>
+      <property name="Caption">Day5</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day5</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="VisibleIndex">10</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day6</property>
+      <property name="Caption">Day6</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day6</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="VisibleIndex">11</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day7</property>
+      <property name="Caption">Day7</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day7</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="VisibleIndex">12</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day8</property>
+      <property name="Caption">Day8</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day8</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="VisibleIndex">13</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day9</property>
+      <property name="Caption">Day9</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day9</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="VisibleIndex">14</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day10</property>
+      <property name="Caption">Day10</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day10</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="VisibleIndex">15</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day11</property>
+      <property name="Caption">Day11</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day11</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="VisibleIndex">16</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day12</property>
+      <property name="Caption">Day12</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day12</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="VisibleIndex">17</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day13</property>
+      <property name="Caption">Day13</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day13</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="VisibleIndex">18</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day14</property>
+      <property name="Caption">Day14</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day14</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="VisibleIndex">19</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day15</property>
+      <property name="Caption">Day15</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day15</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="VisibleIndex">20</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day16</property>
+      <property name="Caption">Day16</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day16</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="VisibleIndex">21</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day17</property>
+      <property name="Caption">Day17</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day17</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="VisibleIndex">22</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day18</property>
+      <property name="Caption">Day18</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day18</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="VisibleIndex">23</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day19</property>
+      <property name="Caption">Day19</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day19</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="VisibleIndex">24</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day20</property>
+      <property name="Caption">Day20</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day20</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="VisibleIndex">25</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day21</property>
+      <property name="Caption">Day21</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day21</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="VisibleIndex">26</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day22</property>
+      <property name="Caption">Day22</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day22</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="VisibleIndex">27</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day23</property>
+      <property name="Caption">Day23</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day23</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="VisibleIndex">28</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day24</property>
+      <property name="Caption">Day24</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day24</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="VisibleIndex">29</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day25</property>
+      <property name="Caption">Day25</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day25</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="VisibleIndex">30</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day26</property>
+      <property name="Caption">Day26</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day26</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="VisibleIndex">31</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day27</property>
+      <property name="Caption">Day27</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day27</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="VisibleIndex">32</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day28</property>
+      <property name="Caption">Day28</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day28</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="VisibleIndex">33</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day29</property>
+      <property name="Caption">Day29</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day29</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="VisibleIndex">34</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day30</property>
+      <property name="Caption">Day30</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day30</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item36" isnull="true" iskey="true">
+      <property name="VisibleIndex">35</property>
+      <property name="Fixed">None</property>
+      <property name="Name">Day31</property>
+      <property name="Caption">Day31</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Day31</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">71</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item37" isnull="true" iskey="true">
+      <property name="VisibleIndex">36</property>
+      <property name="Fixed">None</property>
+      <property name="Name">NGAYCONG</property>
+      <property name="Caption">SỐ NGÀY CÔNG TRONG THÁNG</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">NGAYCONG</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">210</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item38" isnull="true" iskey="true">
+      <property name="VisibleIndex">38</property>
+      <property name="Fixed">None</property>
+      <property name="Name">NGAYPHEP</property>
+      <property name="Caption">NGÀY PHÉP</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">NGAYPHEP</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item39" isnull="true" iskey="true">
+      <property name="VisibleIndex">37</property>
+      <property name="Fixed">None</property>
+      <property name="Name">NGHIKHONGPHEP</property>
+      <property name="Caption">NGHỈ KHÔNG PHÉP</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">NGHIKHONGPHEP</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">34</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item40" isnull="true" iskey="true">
+      <property name="VisibleIndex">39</property>
+      <property name="Fixed">None</property>
+      <property name="Name">CONGNGAYLE</property>
+      <property name="Caption">CÔNG NGÀY LỄ</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">CONGNGAYLE</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item41" isnull="true" iskey="true">
+      <property name="VisibleIndex">40</property>
+      <property name="Fixed">None</property>
+      <property name="Name">CONGCHUNHAT</property>
+      <property name="Caption">CÔNG CN</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">CONGCHUNHAT</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item42" isnull="true" iskey="true">
+      <property name="VisibleIndex">41</property>
+      <property name="Fixed">None</property>
+      <property name="Name">TONGNGAYCONG</property>
+      <property name="Caption">TỔNG NGÀY CÔNG</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">TONGNGAYCONG</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">25</property>
+      <property name="MinWidth">25</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+  </property>
+  <property name="MinBandPanelRowCount">1</property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowGroupPanel">false</property>
+  </property>
+  <property name="BandPanelRowHeight">-1</property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="RowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollTipFieldName" />
+  <property name="PreviewFieldName" />
+  <property name="GroupPanelText" />
+  <property name="NewItemRowText" />
+  <property name="LevelIndent">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="HorzScrollStep">0</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Name">gvBangCongChiTiet</property>
+  <property name="DetailHeight">350</property>
+  <property name="Tag" isnull="true" />
+  <property name="Bands" iskey="true" value="2">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="BackColor">DarkMagenta</property>
+        <property name="Font">Tahoma, 12pt, style=Bold, Italic</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">Left</property>
+      <property name="Width">383</property>
+      <property name="MinWidth">10</property>
+      <property name="Columns" iskey="true" value="5">
+        <property name="Item1">ID</property>
+        <property name="Item2">MAKYCONG</property>
+        <property name="Item3">TENPB</property>
+        <property name="Item4">MANV</property>
+        <property name="Item5">HOTEN</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">THÔNG TIN NHÂN VIÊN</property>
+      <property name="Name">THONGTINNHANVIEN</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="BackColor">MediumSpringGreen</property>
+        <property name="Font">Tahoma, 12pt, style=Bold, Italic</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Width">1265</property>
+      <property name="MinWidth">10</property>
+      <property name="Columns" iskey="true" value="37">
+        <property name="Item1">Day1</property>
+        <property name="Item2">Day2</property>
+        <property name="Item3">Day3</property>
+        <property name="Item4">Day4</property>
+        <property name="Item5">Day5</property>
+        <property name="Item6">Day6</property>
+        <property name="Item7">Day7</property>
+        <property name="Item8">Day8</property>
+        <property name="Item9">Day9</property>
+        <property name="Item10">Day10</property>
+        <property name="Item11">Day11</property>
+        <property name="Item12">Day12</property>
+        <property name="Item13">Day13</property>
+        <property name="Item14">Day14</property>
+        <property name="Item15">Day15</property>
+        <property name="Item16">Day16</property>
+        <property name="Item17">Day17</property>
+        <property name="Item18">Day18</property>
+        <property name="Item19">Day19</property>
+        <property name="Item20">Day20</property>
+        <property name="Item21">Day21</property>
+        <property name="Item22">Day22</property>
+        <property name="Item23">Day23</property>
+        <property name="Item24">Day24</property>
+        <property name="Item25">Day25</property>
+        <property name="Item26">Day26</property>
+        <property name="Item27">Day27</property>
+        <property name="Item28">Day28</property>
+        <property name="Item29">Day29</property>
+        <property name="Item30">Day30</property>
+        <property name="Item31">Day31</property>
+        <property name="Item32">NGAYCONG</property>
+        <property name="Item33">NGHIKHONGPHEP</property>
+        <property name="Item34">NGAYPHEP</property>
+        <property name="Item35">CONGNGAYLE</property>
+        <property name="Item36">CONGCHUNHAT</property>
+        <property name="Item37">TONGNGAYCONG</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">CHI TIẾT NGÀY CÔNG</property>
+      <property name="Name">CHITIETNGAYCONG</property>
+    </property>
+  </property>
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="FormatRules" iskey="true" value="0" />
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>
